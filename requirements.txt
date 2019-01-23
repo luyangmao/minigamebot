@@ -1,0 +1,16 @@
+asn1crypto==0.24.0
+certifi==2018.11.29
+cffi==1.11.5
+cryptography==2.3.1
+enum34==1.1.6
+idna==2.7
+ipaddress==1.0.22
+pipenv==2018.11.26
+psycopg2-binary==2.7.6.1
+pycparser==2.19
+pyinstall==0.1.4
+PyMySQL==0.9.2
+six==1.11.0
+typing==3.6.6
+virtualenv==16.2.0
+virtualenv-clone==0.4.0
